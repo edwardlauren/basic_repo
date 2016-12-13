@@ -1,0 +1,15 @@
+step
+
+step first new repo on github
+
+step 1.made dir called Basic_repo on local
+
+step2.git add get_text.txt
+
+git staus
+
+answere was committed
+
+git push -u origin master
+
+done
